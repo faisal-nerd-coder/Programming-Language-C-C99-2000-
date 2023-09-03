@@ -15,9 +15,9 @@
 * Types of variables and constants: 1) Primary 2) Secondary.
 * 3 types in Primary : 1) integer 2) Real (Float) 3) Character.
 * Ranges
-      1) 2-bytes integers: -32768 to +32767.
-      2) 4-bytes integers: -2147438648 to +2147438647.
-      3) Floats : -3.4 x 10^38 to +3.4 x 10^38.
+    1) 2-bytes integers: -32768 to +32767.
+    2) 4-bytes integers: -2147438648 to +2147438647.
+    3) Floats : -3.4 x 10^38 to +3.4 x 10^38.
 * In a char constant, both quotes must slant to the left, like 'A'.
 * Variable has two meanings:
     1) It is a entity whose value can change.
