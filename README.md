@@ -14,7 +14,7 @@ History Of Langauge C -
 2000: ANSI adopted ISO C, Referred as C99.
 
 All the programes or codes in this repository are based on C99 Standard.
-# Chapter 1: Summary
+# Chapter 1: Getting Started
 
 ## Notes
 
