@@ -6,9 +6,9 @@
 
 - Good base for learning C++, c#, or Java Later.
 
--Unix, Linux, Windows, Gaming frameworks are written in C.
+- Unix, Linux, Windows, Gaming frameworks are written in C.
 
--Embeded systems programs are written in C.
+- Embeded systems programs are written in C.
 
 * Constants = Literals -> Cannot Change
 * Variables = Identifiers -> May Change
