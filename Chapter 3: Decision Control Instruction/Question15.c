@@ -1,0 +1,2 @@
+/*Write a program using conditional operators to determine whether a year entered through the 
+keyboard is a leap year or not.*/
